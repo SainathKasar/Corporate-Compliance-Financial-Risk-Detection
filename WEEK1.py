@@ -48,11 +48,11 @@ for p in partners:
 # Combine into one big table
 final_df = pd.concat(all_data)
 
-# Now you can easily compare!
+# Now i can easily compare!
 print(final_df.columns)
 
 
-##seeing the Benford's law (week 2 task)
+##seeing the Benford's law (week 2 task) on comtrade data
 import pandas as pd
 import numpy as np
 
